@@ -1,0 +1,6 @@
+[[language]]
+name = "go"
+auto-format = false
+
+[language-server.gopls.config]
+gofumpt = false
